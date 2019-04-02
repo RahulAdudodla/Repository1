@@ -1,4 +1,4 @@
-class economy:
+class bowlereconomy:
     def __init__(self,overs,runs):
         self.overs=overs
         self.runs=runs
