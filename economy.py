@@ -4,4 +4,4 @@ class economy:
         self.runs=runs
         print(self.runs/self.overs)
 
-bowler1=economy(5,55)
+bowler1=economy(6,55)
